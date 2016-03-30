@@ -1,0 +1,13 @@
+.jumbotron {
+  text-align: center;
+  background-color: #D3F7E9;
+  color: #DD4538;
+}
+
+body {
+  background-color: #FCF3D2;
+}
+
+#result {
+  display: none;
+}
